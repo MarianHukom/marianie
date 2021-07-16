@@ -1,5 +1,50 @@
-# marianie
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>komiks site</title>
+</head>
+<body>
+    <center>
+        <h1>testing testing</h1>
 
-<img src="main/Comic1.png">
+        <ul style="left: 0px;">
+            <li>
+                <span>
+                    <img src="Comic1.png">
+                </span>
+            </li>
 
-![](main/Comic1.png)
+            <li>
+                <span>
+                    <img src="test.png">
+                </span>
+            </li>
+
+            <li>
+                <span>
+                    <img src="test.png">
+                </span>
+            </li>
+
+            <li>
+                <span>
+                    <img src="test.png">
+                </span>
+            </li>
+
+            <li>
+                <span>
+                    <img src="test.png">
+                </span>
+            </li>
+
+            <li>
+                <span>
+                    <img src="test.png">
+                </span>
+            </li>
+        </ul>
+    </center>
+</body>
+</html>
