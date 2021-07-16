@@ -17,7 +17,7 @@
 
             <li>
                 <span>
-                    <img src="test.png">
+                    <img src="Comic2.png">
                 </span>
             </li>
 
