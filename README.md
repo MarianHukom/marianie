@@ -1,5 +1,5 @@
 # marianie
 
-<img src="marianie/Comic1.jpeg">
+<img src="marianie/Comic1.png">
 
-![](marianie/Comic1.jpeg)
+![](marianie/Comic1.png)
